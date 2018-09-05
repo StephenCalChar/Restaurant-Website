@@ -14,9 +14,8 @@ media
 # in your Git repository. Update and uncomment the following line accordingly.
 
 
-static/*
-newenv/*
-media/*
+myProject/static/*
+myProject/newenv/*
 
 
 
